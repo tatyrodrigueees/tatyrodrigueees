@@ -4,9 +4,7 @@
  
  👩🏻‍💻In career transition to the area of ​​Technology
  
-   <div>
-   <img src="https://cdn.picrew.me/shareImg/org/202302/338224_K0WeMsnv.png" style="border-radius: 50%" align="right" alt="Taty-pic" height="100">
-  </div>
+ 
 
  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=tatyrodrigueees&show_icons=true&theme=radical"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyrodrigueees&layout=compact&theme=radical"/>
  
